@@ -16,4 +16,4 @@ pip3 install -r requirements.txt
 gunicorn run server:app
 ~~~
 
-3. Go to [http://localhost:4242/checkout.html](http://localhost:8000/checkout.html)
+3. Go to [http://localhost:8000/checkout.html](http://localhost:8000/checkout.html)
